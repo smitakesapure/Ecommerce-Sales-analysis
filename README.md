@@ -42,5 +42,8 @@ This project focuses on analyzing ecommerce sales data to derive actionable insi
 - **Pivot Tables & Charts:** For aggregating and visualizing data
 - **Conditional Formatting:** To highlight critical KPIs
 - **Dashboard Design:** Creating an interactive and visually appealing dashboard
-![Dashboard Screenshot]("C:\Users\smita\OneDrive\Pictures\Screenshots\Screenshot 2025-03-21 103509.png")
+
+![Dashboard Screenshot]("![Screenshot 2025-03-21 103509](https://github.com/user-attachments/assets/8067da30-9652-4a9b-81e2-712081c6e050)
+")
+
 
